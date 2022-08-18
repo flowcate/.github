@@ -9,3 +9,5 @@ Here at github you'll find:
 </ul>
 
 Visit our <a href="https://flowcate.com" target="_blank">homepage</a> or <a href="https://www.linkedin.com/company/flowcate" target="_blank">follow us on LinkedIn</a> for more information about us and our main product.
+
+If you are new to indoor tracking and locating systems in general, watch this <a href="https://youtu.be/QFwSn90uYog" target="_blank">introduction video at youtube</a>.
