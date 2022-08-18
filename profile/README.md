@@ -1,4 +1,4 @@
-![This is an image](https://flowcate.com/wp-content/uploads/2022/04/FlowcateLogo.png?s=100&v=1)
+<h1>Welcome to the github page of Flowcate!</h1>
 
 Flowcate is a global technology company focused on reshaping how location data is used in IoT. With over 20 years of experience in location-based services, our ambitious and highly-skilled team is devoted to continuously extending the capabilities of our product to allow for the implementation of new and innovative use cases.
 
