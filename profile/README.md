@@ -7,3 +7,5 @@ Here at github you'll find:
 <li>Basic setup information for our main product, the <a href="https://www.flowcate.com/deephub" target="_blank">DeepHub</a>, the premier <a href="https://www.omlox.com" target="_blank">omlox</a> hub implementation</li>
 <li>Usage examples for the DeepHub, standalone or in conjunction with other software like InfluxDB or <a href="https://github.com/grafana" target="_blank">Grafana</a></li>
 </ul>
+
+Visit our <a href="https://flowcate.com" target="_blank">homepage</a> or <a href="https://www.linkedin.com/company/flowcate" target="_blank">follow us on LinkedIn</a> for more information about us and our main product.
